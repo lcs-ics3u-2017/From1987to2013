@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		0E4F377620750C2400E1C552 /* From1987to2013 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = From1987to2013; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E4F377920750C2500E1C552 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		814A308120C011B0001BB96F /* From 1987 to 2013.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "From 1987 to 2013.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		0E4F377820750C2400E1C552 /* From1987to2013 */ = {
 			isa = PBXGroup;
 			children = (
+				814A308120C011B0001BB96F /* From 1987 to 2013.pdf */,
 				0E4F377920750C2500E1C552 /* main.swift */,
 			);
 			path = From1987to2013;
